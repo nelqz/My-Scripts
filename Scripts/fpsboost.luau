@@ -3,6 +3,6 @@ game.Lighting.GlobalShadows = false
 game.Lighting.FogEnd = math.huge
 
 for _, v in workspace:GetDescendants() do
- if v:IsA("BasePart") then v.Material = Enum.Material.Plastic
+ if v:IsA("BasePart") then v.Material = Enum.Material.SmoothPlastic
  end
 end
