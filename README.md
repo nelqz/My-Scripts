@@ -1,2 +1,1 @@
-# My-Scripts
-i store my scripts here.
+hi everyone, feel free to copy my script.
